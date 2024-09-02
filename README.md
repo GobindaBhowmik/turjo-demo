@@ -1,3 +1,3 @@
 # turjo-demo
 This is my first repository<br>
-Author - Turjo<gobinda>
+Author - Turjo<gobinda bhai>
